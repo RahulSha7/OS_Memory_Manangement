@@ -1,4 +1,4 @@
-OS_Memory_Allocation-Project
+OS-Memory-Management
 
 This project is about implementing memory allocation algorithms in C++ to allocate memory to different processes using a doubly linked list. The algorithms implemented in this project are First-Fit, Best-Fit, Next-Fit and Worst-Fit.
 
